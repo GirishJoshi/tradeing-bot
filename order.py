@@ -1,3 +1,5 @@
+# paper trading simulator code
+
 amount = 1000
 portfolio = 0
 money_end = amount
